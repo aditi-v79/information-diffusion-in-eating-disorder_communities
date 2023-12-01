@@ -6,5 +6,5 @@
 
 Run the files:
 Steps
-1.	Add the ed_proj to my drive on google drive
-2.	Run the ipynb files to see results. 
+1.	Add the ed_proj to my drive on google drive( and/or change the path inside the code accordingly)
+2.	Run the ipynb files on collab to see results. 
